@@ -19,6 +19,7 @@ https://fire.rjsgud.com/
   - 가용 소방차 수
 - 기상 정보 제공
   - 지역별 현재 날씨 (기온, 강수확률, 풍속 등)
+<img width="1897" height="906" alt="image" src="https://github.com/user-attachments/assets/3e6e4ed3-9718-40db-a27e-5cd572fa7783" />
 
 ---
 
@@ -29,6 +30,7 @@ https://fire.rjsgud.com/
   - 자원집결지 주소 입력
 - 엑셀 업로드를 통한 일괄 등록
 - 등록 차량 목록 관리
+<img width="1917" height="908" alt="image" src="https://github.com/user-attachments/assets/0ea233bb-188c-47b7-8e83-a46f2d59354d" />
 
 ---
 
@@ -38,6 +40,7 @@ https://fire.rjsgud.com/
 - 출동 정보 입력
   - 제목, 내용, 출동 주소
 - 선택 차량 기반 출동 명령 생성
+<img width="1899" height="904" alt="image" src="https://github.com/user-attachments/assets/36b35a13-0199-406a-8aff-1d9b50af4b20" />
 
 ---
 
@@ -46,22 +49,26 @@ https://fire.rjsgud.com/
 - 차량 정보 확인
   - 위치, 출동 내용, 상태 등
 - 상태 기반 관리 및 조치
+<img width="1919" height="408" alt="image" src="https://github.com/user-attachments/assets/18fe07bf-eb1d-46ea-a3e4-e1e0c5ba1c5f" />
 
 ---
 
 ### 🗺 지도
 - 차량 위치 기반 지도 표시
 - 위치 및 분포 확인
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/84997ab4-0afd-4bcb-b996-deb92e5b565e" />
 
 ---
 
 ### 📈 통계
 - 차량 / 인원 / 차종별 집계 데이터 제공
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/4d90df61-edd5-49da-87bd-6d5d81b8f44e" />
 
 ---
 
 ### 📄 보고서
 - 출동 및 자원 데이터 기반 보고서 생성
+<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/d7459e64-4901-4c64-8086-00edc160f8fe" />
 
 ---
 
