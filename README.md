@@ -15,6 +15,7 @@ https://fire.rjsgud.com/
 ### 1. 메인
 - 재난 / 평상시 상태 전환 (전역 상태)
 - 상태에 따라 현황 집계 방식 변경
+<img width="1897" height="906" alt="image" src="https://github.com/user-attachments/assets/b63ee440-edaa-41de-b858-38e10c9014e2" />
 
 ---
 
